@@ -2,6 +2,7 @@
 
 - 🌱 Atualmente estou estudando JavaScript, TypeScript, e C
 - 💬 Entre em contato: luizhakan2@protonmail.com
+- 💻 Ciência da Computação 1/8
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizhakan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
