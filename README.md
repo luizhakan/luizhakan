@@ -1,6 +1,6 @@
 ## OLÁ, EU SOU O LUIZ!
 
-- 🌱 Atualmente estou estudando JavaScript, TypeScript, e C
+- 🌱 Atualmente estou estudando JavaScript, TypeScript, Java, e C
 - 💬 Entre em contato: luizhakan2@protonmail.com
 - 💻 Ciência da Computação 1/8
 
