@@ -47,5 +47,5 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman" /> 
+  <img src="https://skillicons.dev/icons?i=git,gitlab,vscode,postman" /> 
 </div>
