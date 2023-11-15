@@ -13,16 +13,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhakan&langs_count=8&theme=great-gatsby">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizhakan&theme=slateorange" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizhakan&theme=slateorange" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=luizhakan&theme=rising-sun&hide_border=true" />
 </div>
-  
+
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizhakan&theme=slateorange" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizhakan&theme=slateorange" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhakan&langs_count=8&theme=great-gatsby">
 </div>
 
 ## Skills & technologies
