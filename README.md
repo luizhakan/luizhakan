@@ -21,10 +21,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=luizhakan&theme=rising-sun&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhakan&langs_count=8&theme=great-gatsby">
-</div>
-
 ## Skills & technologies
 <div align="center">
   <img src="https://img.shields.io/badge/Languages:-orange" />
