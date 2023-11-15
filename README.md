@@ -1,28 +1,51 @@
-## OLÁ, EU SOU O LUIZ!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+i'm+Luiz+(Ol%C3%A1%2C+eu+sou+Luiz)">
+</div>
 
-- 🌱 Atualmente estou estudando JavaScript, TypeScript, Java, e C
-- 💬 Entre em contato: luizhakan2@protonmail.com
-- 💻 Ciência da Computação 1/8
+<p align="center">
+    Sim, eu sou o gênio do esforço. <br>
+    "O trabalho duro, vence o dom natural!" ☘️☘️☘️
+</p>
+
+## Profile stats
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizhakan&theme=slateorange" />
+</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizhakan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhakan&layout=compact&langs_count=10&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhakan&langs_count=8&theme=great-gatsby">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luiz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Luiz-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img align="center" alt="Luiz-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Luiz-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-   <img align="center" alt="Luiz-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luizhakan&theme=rising-sun&hide_border=true" />
 </div>
-<br/>
-<div> 
-  <a href="https://instagram.com/luizhakan.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luizhakan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizhakan&theme=slateorange" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizhakan&theme=slateorange" />
+</div>
 
+## Skills & technologies
+<div align="center">
+  <img src="https://img.shields.io/badge/Languages:-orange" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,html,css" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Frameworks and tools:-orange" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,spring,react,angular,tailwind,bootstrap,mysql,postgresql,firebase,docker,linux" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Development:-orange" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman" /> 
 </div>
