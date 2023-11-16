@@ -8,9 +8,6 @@
 </p>
 
 ## Profile stats
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizhakan&theme=slateorange" />
-</div>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizhakan&theme=slateorange" />
