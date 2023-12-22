@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,python,javascript,typescript,html,css" />
 </div>
 
 <div align="center">
