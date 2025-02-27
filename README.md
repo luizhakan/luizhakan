@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,python,typescript,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,typescript,javascript,html,css" />
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,spring,dotnet,react,angular,tailwind,bootstrap,mysql,postgresql,firebase,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,spring,react,angular,tailwind,bootstrap,mysql,postgresql,firebase,docker,linux" />
 </div>
 
 <div align="center">
